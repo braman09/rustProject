@@ -1,0 +1,8 @@
+[package]
+name = "rustProject"
+version = "0.1.0"
+authors = ["braman"]
+
+[dependencies]
+
+rand = "0.3.14"
