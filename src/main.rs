@@ -1,5 +1,5 @@
 extern crate rand;
-
+// a comment line
 use std::io;
 use rand::Rng;
 
