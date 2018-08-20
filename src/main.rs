@@ -31,7 +31,7 @@ fn main() {
             Ordering::Equal => {
                 println!("You Win");
                 break;
-            },
+            }
         }
     }
 }
